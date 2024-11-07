@@ -1,0 +1,78 @@
+.container{
+    border: 1px solid black;
+    width: 800px;
+    height: 500px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+    background-color: #075497;
+}
+.block1{
+    background-color: white;
+float: left;
+display: inline;
+width: 250px;
+height: 150px;
+border: 1px solid black;
+margin: 10px;
+padding-top: 20px;
+padding-left: 20px;
+}
+.authorization{
+padding-left: 50px;
+font-size: 15px;
+font-weight: bold;
+
+}
+.Login{
+padding-left: 10px;
+border-radius: 5px;
+border: 1px solid black;
+width: 220px;
+}
+.Password{
+padding-left: 10px;
+border-radius: 5px;
+border: 1px solid black;
+width: 220px;
+}
+.Enter{
+    padding-left: 10px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid black;
+    width: 220px;
+    background-color: #075497;
+}
+.block2{
+    background-color: white;
+    float: right;
+    display: inline;
+    width: 450px;
+    height: 400px;
+    border: 1px solid black;
+    margin: 10px;
+    padding-top: 20px;
+    padding-left: 20px;   
+}
+.AccountReports{
+    font-weight: bold;
+    padding-left:60px ;
+   
+}
+.containerForAlagirDivision{
+    background-color: #EFEFEF;
+    border: 1px solid black;
+    width: 400px;
+    height: 30px;
+    padding-top: -10px;
+    border-radius: 5px;
+    
+}
+
+.AlagirDivision{  
+    padding-top: -40px;
+    padding-left: 20px;
+    width: 400px;
+    margin-top: 10px;
+}
